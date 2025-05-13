@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
   </a>
   <a href="https://x.com/jamesattoh48044?t=CJRKVckkeMv-760p70o7rA&s=08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
   </a>
 </div>
 
@@ -29,6 +29,14 @@
 <div align="left" style="display:flex; gap:20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=jamesattoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesattoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <br>
+  <a href='https://github.com/jamesattoh/github-stats-transparent'>
+    
+  ![Stats Overview](https://raw.githubusercontent.com/jamesattoh/github-stats-transparent/output/generated/overview.svg)
+  ![Most Used Languages](https://raw.githubusercontent.com/jamesattoh/github-stats-transparent/output/generated/languages.svg)
+  
+  </a>
+
 </div>
 
 ### 🔨 Languages and Tools:
