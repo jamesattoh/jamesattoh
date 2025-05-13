@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-## I am I'm Déo Gratias, Fullstack Developer
+## I'm Déo Gratias, Fullstack Developer
 
 - 🔭 I’m currently working on my portfolio !
 - 🌱 I’m currently learning Flutter, NextJS & Wordpress
 - 💬 Ask me about anything tech related, I am happy to help
 - ⚡ Fun fact: I like to draw anything and everything !
 
-
-###
-
-<p align="left">I'm Déo Gratias, Fullstack Web Developer</p>
 
 ###
 
