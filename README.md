@@ -7,7 +7,7 @@
 - 💬 Ask me about anything tech related, I am happy to help
 - ⚡ Fun fact: I like to draw anything and everything !
 
-##🤝 Connect with me
+### 🤝 Connect with me
 
 <div align="left">
   <a href="www.linkedin.com/in/deogratias-attoh" target="_blank">
@@ -24,14 +24,14 @@
   </a>
 </div>
 
-###📊 Github Stats
+### 📊 Github Stats
 
-<div align="left">
+<div align="left" style="display:flex; gap:20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=jamesattoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesattoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
-###🔨 Languages and Tools:
+### 🔨 Languages and Tools:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
