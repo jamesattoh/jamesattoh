@@ -7,8 +7,9 @@
 - 💬 Ask me about anything tech related, I am happy to help
 - ⚡ Fun fact: I like to draw anything and everything !
 
+##
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/deogratias-attoh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
@@ -25,7 +26,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jamesattoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesattoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
